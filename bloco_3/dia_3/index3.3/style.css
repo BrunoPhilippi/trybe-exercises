@@ -1,0 +1,11 @@
+.word{
+   position: absolute;
+   right: 1000px;
+   bottom: -2500px;
+}
+.baloon{
+    z-index: 1;
+    top: 100px;
+}
+
+
